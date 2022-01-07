@@ -1,2 +1,2 @@
-# JAVA-SOTWARE-LAB-PROGRAMS
+# JAVA-SOFTWARE-LAB-PROGRAMS
 Programs using java language
